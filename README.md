@@ -35,7 +35,7 @@
 
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ [Replace this Video link](https://github.com/Sitecore-Hackathon/2025-ByteBuild/blob/main/ENTRYFORM.md#video-link)
+⟹ https://youtu.be/L0zauj5PYno
 
 ## Pre-requisites and Dependencies
 
